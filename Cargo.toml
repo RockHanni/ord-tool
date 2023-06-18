@@ -15,6 +15,7 @@ jsonrpsee-core = "0.18"
 tokio = {version = "1.28", features = ["macros"]}
 anyhow = "1"
 bitcoincore-rpc = "0.17.0"
+sha2 = "0.10"
 
 [dependencies.ord]
 #git = "https://github.com/hxuchen/ord.git"
